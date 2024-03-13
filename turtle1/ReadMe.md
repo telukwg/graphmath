@@ -24,4 +24,8 @@ The side on the *x* axis, relative to the angle *theta*, is known as the **Adjac
 
 Our basic trigonometry tells us that:
 
-![The radius forms the hypotenuse of a triangle](./images/xrfraction.mml)
+![Formula for x/r](./images/xrfraction.png)
+and 
+![Formula for x/r](./images/yrfraction.png)
+
+These both now give us values for **x** and **y**, in parametric form using the angle *theta* as the *independent parameter.*
