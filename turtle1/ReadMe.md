@@ -22,7 +22,16 @@ The side on the *x* axis, relative to the angle *theta*, is known as the **Adjac
 
 ![The radius forms the hypotenuse of a triangle](./images/plotcircle_triangle.svg)
 
-Our basic trigonometry tells us that:
+In **trigonometry** we can redefine the side's names as:
+
+![Formula for x/r](./images/plotcircle_trig.svg)
+
+Where
+- **Hypotenuse** = **r**
+- **Adjacent** = **x**
+- **Opposite** = **y**
+
+Trigonometry tells us that:
 
 ![Formula for x/r](./images/xrfraction.png)
 
@@ -30,4 +39,20 @@ and
 
 ![Formula for x/r](./images/yrfraction.png)
 
-These both now give us values for **x** and **y**, in parametric form using the angle *theta* as the *independent parameter.*
+These both now give us values for **x** and **y**, in parametric form using the angle *theta* as the *independent parameter*:
+
+![Formula for x](./images/xcoord.png)
+
+![Formula for y](./images/ycoord.png)
+
+***Now we have the math for plotting a circle***, all that remains now is the ***implementation***.
+
+Using **Turtle Graphics** we can create the circle as follows:
+1. start at some point on the circle
+1. set a new *target* point at some point further along the circles edge
+1. draw a line to the target
+
+There are some other options, why not use them?
+1. Plot dots around the edge of the circle - there will be gaps between the dots, meaning a large circle will need a large number of dots.  Since *Turtle* can draw lines, we take advantage of that
+1. Use a different equation expressed directly in terms of *x* and *y* - we would need to make the equation in terms of either x or y (we'll pick *x*), then to calculate the points to draw, we would need to increment *x*.  But this will lead to big gaps between target points where x is close to zero, and tiny gaps where x is close to the length of the radius - this is due to the curvature of the circle.
+Using the *parametric equation* with the angle *theta* as the independent parameter, leads to the same spacing between every target point and thus a "better looking" circle.
