@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.2"
-   width="85.791107mm"
+   width="85.791115mm"
    height="80.292221mm"
-   viewBox="0 0 8579.1107 8029.2221"
+   viewBox="0 0 8579.1115 8029.2221"
    preserveAspectRatio="xMidYMid"
    fill-rule="evenodd"
    stroke-width="28.222"
@@ -15,8 +15,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:ooo="http://xml.openoffice.org/svg/export"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
    id="namedview1513"
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -28,178 +27,107 @@
    inkscape:document-units="mm"
    showgrid="false"
    inkscape:zoom="1.4770342"
-   inkscape:cx="142.85383"
-   inkscape:cy="205.81784"
+   inkscape:cx="142.85384"
+   inkscape:cy="206.49488"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg1511" />
+   inkscape:current-layer="layer1" />
  <defs
    class="ClipPathGroup"
-   id="defs1052">
-  
-  <clipPath
-   id="presentation_clip_path_shrink"
-   clipPathUnits="userSpaceOnUse">
-   <rect
-   x="21"
-   y="29"
-   width="20958"
-   height="29641"
-   id="rect1049" />
-  </clipPath>
- 
-  
- 
-   
-  
-    
-   
-     
-    
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-     <clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2526"><g
-     id="g2532"><g
-       id="g2530"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2528" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2534"><g
-     id="g2540"><g
-       id="g2538"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2536" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2542"><g
-     id="g2548"><g
-       id="g2546"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2544" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2550"><g
-     id="g2556"><g
-       id="g2554"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2552" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2558"><g
-     id="g2564"><g
-       id="g2562"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2560" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2566"><g
-     id="g2572"><g
-       id="g2570"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2568" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2574"><g
-     id="g2580"><g
-       id="g2578"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2576" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2582"><g
-     id="g2588"><g
-       id="g2586"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2584" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2590"><g
-     id="g2596"><g
-       id="g2594"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2592" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2598"><g
-     id="g2604"><g
-       id="g2602"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2600" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2606"><g
-     id="g2612"><g
-       id="g2610"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2608" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2614"><g
-     id="g2620"><g
-       id="g2618"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2616" /></g></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2622"><g
-     id="g2628"><g
-       id="g2626"><rect
-         x="0"
-         y="0"
-         width="21000"
-         height="29700"
-         id="rect2624" /></g></g></clipPath></defs>
+   id="defs1052"><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2526"><g
+       id="g2532"><g
+         id="g2530"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2528" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2534"><g
+       id="g2540"><g
+         id="g2538"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2536" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2542"><g
+       id="g2548"><g
+         id="g2546"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2544" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2550"><g
+       id="g2556"><g
+         id="g2554"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2552" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2558"><g
+       id="g2564"><g
+         id="g2562"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2560" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2566"><g
+       id="g2572"><g
+         id="g2570"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2568" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2574"><g
+       id="g2580"><g
+         id="g2578"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2576" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2614"><g
+       id="g2620"><g
+         id="g2618"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2616" /></g></g></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath2622"><g
+       id="g2628"><g
+         id="g2626"><rect
+           x="0"
+           y="0"
+           width="21000"
+           height="29700"
+           id="rect2624" /></g></g></clipPath></defs>
  <defs
-   id="defs1079">
-  <font
-   id="EmbeddedFont_1"
-   horiz-adv-x="2048"
-   horiz-origin-x="0"
-   horiz-origin-y="0"
-   vert-origin-x="512"
-   vert-origin-y="768"
-   vert-adv-y="1024">
+   id="defs1079"><font
+     id="EmbeddedFont_1"
+     horiz-adv-x="2048"
+     horiz-origin-x="0"
+     horiz-origin-y="0"
+     vert-origin-x="512"
+     vert-origin-y="768"
+     vert-adv-y="1024">
    <font-face
    font-family="Liberation Sans embedded"
    units-per-em="2048"
@@ -261,111 +189,36 @@
    unicode=" "
    horiz-adv-x="556"
    id="glyph1076" />
-  </font>
- </defs>
+  </font></defs>
  <defs
    class="TextShapeIndex"
-   id="defs1083">
-  <g
-   ooo:slide="id1"
-   ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15"
-   id="g1081" />
- </defs>
+   id="defs1083" />
  <defs
    class="EmbeddedBulletChars"
-   id="defs1115">
-  <g
-   id="bullet-char-template-57356"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M 580,1141 1163,571 580,0 -4,571 Z"
-   id="path1085" />
-  </g>
-  <g
-   id="bullet-char-template-57354"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M 8,1128 H 1137 V 0 H 8 Z"
-   id="path1088" />
-  </g>
-  <g
-   id="bullet-char-template-10146"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M 174,0 602,739 174,1481 1456,739 Z M 1358,739 309,1346 659,739 Z"
-   id="path1091" />
-  </g>
-  <g
-   id="bullet-char-template-10132"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M 2015,739 1276,0 H 717 l 543,543 H 174 v 393 h 1086 l -543,545 h 557 z"
-   id="path1094" />
-  </g>
-  <g
-   id="bullet-char-template-10007"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z"
-   id="path1097" />
-  </g>
-  <g
-   id="bullet-char-template-10004"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 V 965 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z"
-   id="path1100" />
-  </g>
-  <g
-   id="bullet-char-template-9679"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z"
-   id="path1103" />
-  </g>
-  <g
-   id="bullet-char-template-8226"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z"
-   id="path1106" />
-  </g>
-  <g
-   id="bullet-char-template-8211"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="M -4,459 H 1135 V 606 H -4 Z"
-   id="path1109" />
-  </g>
-  <g
-   id="bullet-char-template-61548"
-   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
-   <path
-   d="m 173,740 c 0,163 58,303 173,419 116,115 255,173 419,173 163,0 302,-58 418,-173 116,-116 174,-256 174,-419 0,-163 -58,-303 -174,-418 C 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"
-   id="path1112" />
-  </g>
- </defs>
- <g
-   id="g1120"
-   transform="translate(-5735.889,-5485.889)">
-  <g
-   id="id2"
-   class="Master_Slide">
+   id="defs1115" />
+ 
+ 
+   
+  
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="All"
+   style="display:inline"><g
+     id="id2"
+     class="Master_Slide"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
    <g
    id="bg-id2"
    class="Background" />
    <g
    id="bo-id2"
    class="BackgroundObjects" />
-  </g>
- </g>
- <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g1397"
-   clip-path="url(#clipPath2622)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id3">
+  </g><g
+     id="id3"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1055,14 +908,10 @@
    stroke="#808080"
    d="m 13991,9457 c 0,14 0,29 0,43"
    id="path1394" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.LineShape"
-   id="g1406"
-   clip-path="url(#clipPath2614)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id4">
+       </g><g
+     id="id4"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1082,14 +931,10 @@
    stroke="none"
    d="m 13700,9350 300,150 -300,150 z"
    id="path1403" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.EllipseShape"
-   id="g1443"
-   clip-path="url(#clipPath2574)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id9">
+       </g><g
+     id="id9"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1111,14 +956,10 @@
    stroke="none"
    d="m 13723,8496 81,-214 186,133 z"
    id="path1440" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.LineShape"
-   id="g1452"
-   clip-path="url(#clipPath2566)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id10">
+       </g><g
+     id="id10"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1138,14 +979,10 @@
    stroke="none"
    d="m 13700,9350 300,150 -300,150 z"
    id="path1449" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.LineShape"
-   id="g1461"
-   clip-path="url(#clipPath2558)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id11">
+       </g><g
+     id="id11"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1165,14 +1002,10 @@
    stroke="none"
    d="m 13700,9350 300,150 -300,150 z"
    id="path1458" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.LineShape"
-   id="g1470"
-   clip-path="url(#clipPath2550)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id12">
+       </g><g
+     id="id12"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1192,14 +1025,10 @@
    stroke="none"
    d="m 13419,8196 331,54 -242,233 z"
    id="path1467" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.LineShape"
-   id="g1479"
-   clip-path="url(#clipPath2542)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id13">
+       </g><g
+     id="id13"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1219,14 +1048,10 @@
    stroke="none"
    d="m 14018,8822 93,-322 202,268 z"
    id="path1476" />
-       </g>
-      </g><g
-   class="com.sun.star.drawing.LineShape"
-   id="g1488"
-   clip-path="url(#clipPath2534)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id14">
+       </g><g
+     id="id14"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1246,14 +1071,10 @@
    stroke="none"
    d="m 12916,7284 334,-34 -173,287 z"
    id="path1485" />
-       </g>
-      </g><g
-   class="TextShape"
-   id="g1501"
-   clip-path="url(#clipPath2526)"
-   transform="translate(-5735.889,-5485.889)">
-       <g
-   id="id15">
+       </g><g
+     id="id15"
+     style="display:inline"
+     transform="translate(-5735.889,-5485.889)">
         <rect
    class="BoundingBox"
    stroke="none"
@@ -1280,8 +1101,4 @@
          stroke="none"
          style="white-space:pre"
          id="tspan1492">Radius Line</tspan></tspan></tspan></text>
-       </g>
-      </g>
-   
-  
-</svg>
+       </g></g></svg>
