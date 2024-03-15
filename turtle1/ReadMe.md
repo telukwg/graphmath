@@ -20,11 +20,11 @@ The angle **theta** is the angle relative to the **x-axis** that the **radius** 
 
 The side on the *x* axis, relative to the angle *theta*, is known as the **Adjacent** side (in basic trigonometry.)  Similarly, the side on the *y* axis, is known as the **Opposite** side.
 
-![The radius forms the hypotenuse of a triangle](./images/plotcircle_triangle.svg)
+![The radius forms the hypotenuse of a triangle](./images/plotcircle_trig.svg)
 
 In **trigonometry** we can redefine the side's names as:
 
-![Formula for x/r](./images/plotcircle_trig.svg)
+![Formula for x/r](./images/plotcircle_triangle.svg)
 
 Where
 - **Hypotenuse** = **r**
