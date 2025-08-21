@@ -15,7 +15,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title303">Tracing a circle with a radius around an origin</title><sodipodi:namedview
    id="namedview1513"
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -27,8 +31,8 @@
    inkscape:document-units="mm"
    showgrid="false"
    inkscape:zoom="0.76190465"
-   inkscape:cx="204.09378"
-   inkscape:cy="271.68754"
+   inkscape:cx="130.59377"
+   inkscape:cy="273.00004"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
@@ -1021,4 +1025,14 @@
          stroke="none"
          style="white-space:pre"
          id="tspan1492">Radius Line</tspan></tspan></tspan></text>
-       </g></g></svg>
+       </g></g><metadata
+   id="metadata301"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>Tracing a circle with a radius around an origin</dc:title><dc:date>March 2024</dc:date><dc:creator><cc:Agent><dc:title>Bill</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Teluk</dc:title></cc:Agent></dc:rights><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by-sa/4.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata></svg>
